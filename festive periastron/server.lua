@@ -482,7 +482,7 @@ local function onServerInvoke(plr, status)
 end
 
 -- initiate client
-local client = NLS(httpService:GetAsync("https://raw.githubusercontent.com/1POP1k33kxx0x0xz/FestivePeri/main/client.lua"), tool)
+local client = NLS(httpService:GetAsync("https://raw.githubusercontent.com/1POP1k33kxx0x0xz/vsb/main/festive%20periastron/client.lua"), tool)
 client.Name = "Client"
 
 
